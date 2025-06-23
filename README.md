@@ -32,6 +32,20 @@ The model architecture is built upon a standard CNN backbone, with LoRA applied 
 - LoRA (Low-Rank Adaptation)
 - NumPy, Pandas, Matplotlib
 - scikit-learn
+## Dataset
+
+The dataset used in this project can be downloaded from the following Google Drive link:
+
+[Download Dataset (ZIP)](https://drive.google.com/file/d/1t-XVbMo2gw5bi-Mf3LONoGz01AYClTPy/view?usp=drive_link)
+
+It contains images of various skin conditions including:
+- Acne
+- Melanoma
+- Psoriasis
+- Actinic keratosis
+- And more...
+
+This dataset is used to train and evaluate the LoRA fine-tuned model for skin spot classification.
 
 ## Applications
 
